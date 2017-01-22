@@ -17,8 +17,9 @@ fi
 # Editors
 #
 
-export EDITOR='nano'
-export VISUAL='nano'
+# XXX em and emc are provided by my dotfiles
+export EDITOR='emc'
+export VISUAL='em'
 export PAGER='less'
 
 #
